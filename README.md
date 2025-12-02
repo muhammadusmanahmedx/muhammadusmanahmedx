@@ -1,80 +1,60 @@
-🌟 Hi, I'm Muhammad Usman Ahmed
-UI/UX Designer • Full-Stack Developer • Mobile App Developer
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=09F7F7&center=true&vCenter=true&width=600&lines=Designer+who+codes.;Mobile+App+Developer+(Flutter+%26+React+Native);Next.js+%7C+Tailwind+CSS+%7C+React;Building+Clean+Modern+User+Experiences;Crafting+Digital+Products+with+Purpose" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammad-usman-ahmed&label=Profile%20Views&color=blueviolet&style=flat-square" /> </p>
-🎨 About Me
+✨ Hi, I'm Muhammad Usman Ahmed
+UI/UX Designer • Full-Stack Web Developer • Mobile App Developer
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Full+Stack+Web+Developer;Flutter+%26+React+Native+Developer;Creating+Modern+Digital+Experiences" /> </div> <br/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=6366F1&style=flat-square" /> </p>
+🎨 What I Do
+<div align="center">
 
-I’m a multi-disciplinary UI/UX designer, full-stack web developer, and mobile app developer focused on building beautiful, smooth, and meaningful digital experiences.
-I turn ideas into polished products with clean UI, smart UX, modern animations, and scalable code.
+🌐 Web Development — React, Next.js, Tailwind
+📱 Mobile Apps — Flutter, React Native
+🎨 UI/UX Design — Figma
+⚙️ APIs & Full-Stack Work — Node.js, Firebase
+
+</div>
+🧰 Tech Stack (Visual Minimal)
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+📊 GitHub Overview
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadusmanahmedx&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusmanahmedx&theme=tokyonight&hide_border=true" /> </div>
+🔥 Animated Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadusmanahmedx&theme=react-dark&area=true&hide_border=true" /> </div>
+🚀 Featured Work
+<div align="center">
 
 🔗 Portfolio: https://usmans.vercel.app
 
-📍 Pakistan
-💼 Available for freelance & remote work
+✨ Modern UI/UX, smooth animations, and responsive design
 
-🚀 What I Build
-
-🎨 Pixel-perfect UI/UX interfaces
-
-📱 Flutter & React Native mobile apps
-
-🌐 Next.js & modern web apps
-
-⚙️ Full-stack MERN + API integrations
-
-🔥 Smooth animations & modern components
-
-📊 Dashboards, admin panels & SaaS platforms
-
-⚡ Tech Stack
-Design
-
-Frontend
-
-
-
-
-
-
-
-
-
-
-Mobile
-
-
-
-
-Backend
-
-
-
-
-
-
-
-
-✨ Highlighted Projects
-🔹 Modern Portfolio (Next.js + Tailwind)
-
-Beautiful animations, glassmorphism, and responsive UI.
-🔗 https://usmans.vercel.app
-
-🔹 Flutter Mobile App Templates
-
-Cross-platform, responsive, API-ready UI.
-
-🔹 Full-Stack Web Applications (MERN/Next.js)
-
-Authentication, dashboards, and API integrations.
-
-📊 GitHub Analytics
-<p align="center"> <img height="160px" src="https://github-readme-stats.vercel.app/api?username=muhammad-usman-ahmed&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-usman-ahmed&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🔥 GitHub Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-usman-ahmed&theme=github-dark&hide_border=true&area=true" /> </p>
-🌀 Fun Animations
-<p align="center"> <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" /> </p>
+</div>
 🤝 Let’s Connect
+<div align="center">
 
-💼 Portfolio: https://usmans.vercel.app
 
-📧 Open to freelance & remote opportunities
+
+
+</div>
+💡 Open to Collaborations
+<div align="center">
+
+💬 Feel free to reach out — always excited to work on creative ideas!
+
+</div>
