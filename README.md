@@ -43,10 +43,10 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
 
 ### Mobile Development 📱
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,expo,firebase&theme=dark" />
 
 ### Backend & Database 🔧
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres,supabase&theme=dark" />
 
 ### Design Tools 🎨
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" />
@@ -76,17 +76,14 @@
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/muhammadusmanahmed">
+<a href="https://www.linkedin.com/in/muhammad-usman-ahmed-/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:usmanahmed3377@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://dribbble.com/yourusername">
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+<a href="https://github.com/muhammadusmanahmedx">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
