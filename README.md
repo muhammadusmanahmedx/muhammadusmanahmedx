@@ -1,3 +1,5 @@
+# Muhammad Usman Ahmed | UI/UX & Full-Stack Developer
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Usman%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UI%2FUX%20%7C%20Web%20%7C%20Mobile%20Developer&descAlignY=55&descSize=18" />
@@ -22,19 +24,19 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/Web_Development-6366F1?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Web_Development-6366F1?style=for-the-badge&logo=web&logoColor=white" /><br/>
 <sub>Modern • Fast • Scalable</sub>
 </td>
 
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/Mobile_Apps-10B981?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Mobile_Apps-10B981?style=for-the-badge&logo=react&logoColor=white" /><br/>
 <sub>React Native • Flutter</sub>
 </td>
 
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/UI%2FUX_Design-F59E0B?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-F59E0B?style=for-the-badge&logo=figma&logoColor=white" /><br/>
 <sub>Clean • Smooth • User-Focused</sub>
 </td>
 </tr>
@@ -50,36 +52,22 @@
 
 <div align="center">
 
-### 🎨 **Frontend Development**
-
+### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,sass,bootstrap&perline=10&theme=dark" />
 
----
-
-### 📱 **Mobile Development**
-
+### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode&theme=dark" />
-
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
----
-
-### 🧠 **Backend & Databases**
-
+### 🧠 Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,firebase,prisma&perline=8&theme=dark" />
 
----
-
-### 🖌️ **Design Tools**
-
+### 🖌️ Design Tools
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&theme=dark" />
 
----
-
-### 🛠️ **Dev Tools**
-
+### 🛠️ Dev Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm&theme=dark" />
 
 </div>
@@ -92,7 +80,7 @@
 
 <div align="center">
 
-### 🔗 **My Portfolio**
+### 🔗 My Portfolio
 <a href="https://usmans.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -112,11 +100,19 @@ const portfolio = {
 📫 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-usman-ahmed-/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:usmanahmed3377@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/muhammadusmanahmedx"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://usmans.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 <br/><br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-💡 Always Open to Cool Projects & Collaborations
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" /> <img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=6366F1&style=for-the-badge&label=Profile+Views" />
-⭐ From @muhammadusmanahmedx with 💜
 
-</div> ```
+💡 Always Open to Cool Projects & Collaborations
+
+🤝 Let's Collaborate
+I’m always open to new projects, mentorship, or design & dev collaborations:
+
+👨‍💻 Contribute to my open-source projects
+
+💡 Idea bouncing or UI/UX design critique
+
+🚀 Freelance / Full-time opportunities
+
+Connect with me: LinkedIn | GitHub | Portfolio
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" /> <img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=6366F1&style=for-the-badge&label=Profile+Views" /> <br/> ⭐ From @muhammadusmanahmedx with 💜 </div>
