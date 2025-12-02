@@ -22,16 +22,19 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/Web_Development-6366F1?style=for-the-badge" /><br/>
 <sub>Modern, Fast & Scalable</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/Mobile_Apps-10B981?style=for-the-badge" /><br/>
 <sub>iOS & Android Native Feel</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br/>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" /><br/>
 <img src="https://img.shields.io/badge/UI%2FUX_Design-F59E0B?style=for-the-badge" /><br/>
 <sub>Beautiful & Intuitive</sub>
 </td>
@@ -89,16 +92,45 @@
   <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-6366F1?style=for-the-badge&logoColor=white" />
 </a>
 
+<br/><br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusmanahmedx&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981" />
+<br/>
+<sub><b>🎨 Personal Portfolio</b></sub>
+</td>
+<td align="center" width="50%">
 
 ```javascript
-const portfolio = {
+const myWork = {
   design: "Modern & Minimalist",
   animations: "Smooth & Engaging",
   responsive: true,
-  performance: "⚡ Lightning Fast"
+  performance: "⚡ Lightning Fast",
+  techStack: ["Next.js", "Tailwind", "Framer"]
 };
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 Project Highlights
+
+<div align="center">
+
+| Project Type | Technologies | Status |
+|:---:|:---:|:---:|
+| 🌐 **Web Applications** | React • Next.js • TypeScript | ✅ Active |
+| 📱 **Mobile Apps** | Flutter • React Native • Expo | ✅ Active |
+| 🎨 **UI/UX Projects** | Figma • Design Systems | ✅ Active |
+| 🔧 **Full-Stack Solutions** | Node.js • Firebase • MongoDB | ✅ Active |
+
+</div>
 
 </div>
 
