@@ -1,160 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:000000,70:0a0a0a,100:000000&height=180&section=header&text=Muhammad%20Usman%20Ahmed&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Usman%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
 
-</div>
+<br/>
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;Turning+Ideas+into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Flutter;Building+Modern+Solutions+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 <br/>
 
-<div align="center">
-  
-## 👨‍💻 About Me
-
-</div>
-
-I'm a passionate developer focused on creating seamless digital experiences through modern web and mobile applications. With expertise spanning frontend, backend, and design, I build solutions that are both beautiful and functional.
-
-<br/>
+## 🎯 What I Build
 
 <div align="center">
 
-## 🎯 What I Do
-
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/Web-Development-white?style=flat-square&labelColor=000000&color=1a1a1a" />
-<br/><br/>
-Building responsive, fast, and scalable web applications with modern frameworks and best practices
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
+<img src="https://img.shields.io/badge/Web_Development-6366F1?style=for-the-badge" /><br/>
+<sub>Modern, Fast & Scalable</sub>
 </td>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/Mobile-Development-white?style=flat-square&labelColor=000000&color=1a1a1a" />
-<br/><br/>
-Creating cross-platform mobile apps with native performance and intuitive user experiences
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
+<img src="https://img.shields.io/badge/Mobile_Apps-10B981?style=for-the-badge" /><br/>
+<sub>iOS & Android Native </sub>
 </td>
 <td align="center" width="33%">
-<br/>
-<img src="https://img.shields.io/badge/UI%2FUX-Design-white?style=flat-square&labelColor=000000&color=1a1a1a" />
-<br/><br/>
-Designing user-centered interfaces that combine aesthetics with functionality and usability
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-F59E0B?style=for-the-badge" /><br/>
+<sub>Beautiful & Intuitive</sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-## 💻 Technical Skills
-
 </div>
 
-**Frontend Development**
-<br/>
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
-![Sass](https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=CC6699)
-
-**Mobile Development**
-<br/>
-<br/>
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=02569B)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=0175C2)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
-
-**Backend & Database**
-<br/>
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=2D3748)
-
-**Tools & Design**
-<br/>
-<br/>
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=FF6C37)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <br/>
+
+## 🚀 Tech Universe
 
 <div align="center">
 
-## 📊 GitHub Statistics
+<img src="https://user-images.githubusercontent.com/74038190/212257467-1e2df333-45e4-4a79-8f0e-8d9fd4a6f645.gif" width="40"> **Frontend Development** <img src="https://user-images.githubusercontent.com/74038190/212257467-1e2df333-45e4-4a79-8f0e-8d9fd4a6f645.gif" width="40">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadusmanahmedx&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=9ca3af" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadusmanahmedx&theme=dark&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,sass,bootstrap&perline=10&theme=dark" />
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40"> **Mobile Development** <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40">
+
+<img src="https://skillicons.dev/icons?i=flutter,react,dart,androidstudio,xcode&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadusmanahmedx&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af" />
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> **Backend & Database** <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,firebase,prisma&perline=8&theme=dark" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> **Design & Tools** <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40">
+
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,postman,npm&perline=7&theme=dark" />
 
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
 <div align="center">
 
-## 🌐 Featured Work
+## 🌟 Featured Work
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://usmans.vercel.app)
+<a href="https://usmans.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-6366F1?style=for-the-badge&logoColor=white" />
+</a>
 
-Check out my portfolio to see my latest projects and case studies showcasing modern web applications, mobile apps, and design work.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusmanahmedx&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981" />
+
+```javascript
+const portfolio = {
+  design: "Modern & Minimalist",
+  animations: "Smooth & Engaging",
+  responsive: true,
+  performance: "⚡ Lightning Fast"
+};
+```
 
 </div>
 
 <br/>
 
-<div align="center">
-
-## 📬 Get In Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-usman-ahmed-/)
-[![Email](https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:usmanahmed3377@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadusmanahmedx)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usmans.vercel.app)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <br/>
 
 <div align="center">
 
-### 💡 Open to Collaborations and Opportunities
+## 📫 Let's Connect & Collaborate
 
-I'm always interested in working on innovative projects and connecting with fellow developers and designers.
+<a href="https://www.linkedin.com/in/muhammad-usman-ahmed-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:usmanahmed3377@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/muhammadusmanahmedx">
+  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://usmans.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=000000&style=flat-square&label=Profile+Views)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### 💡 Always Open to Exciting Projects & Collaborations
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
 </div>
 
@@ -162,6 +141,10 @@ I'm always interested in working on innovative projects and connecting with fell
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:000000,70:0a0a0a,100:000000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+
+<img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=6366F1&style=for-the-badge&label=Profile+Views" />
+
+**⭐ From [muhammadusmanahmedx](https://github.com/muhammadusmanahmedx) with 💜**
 
 </div>
