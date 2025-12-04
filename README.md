@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Usman%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0d0d0d,30:1a1a1a,50:0d0d0d,70:1a1a1a,90:0d0d0d,100:000000&height=200&section=header&text=Muhammad%20Usman%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Flutter;Building+Modern+Solutions+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Web+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;React+%7C+Next.js+%7C+Flutter;Building+Modern+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -22,17 +22,17 @@
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/Web_Development-6366F1?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&labelColor=1a1a1a" /><br/>
 <sub>Modern, Fast & Scalable</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/Mobile_Apps-10B981?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Mobile_Apps-000000?style=for-the-badge&labelColor=1a1a1a" /><br/>
 <sub>iOS & Android Native </sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br/>
-<img src="https://img.shields.io/badge/UI%2FUX_Design-F59E0B?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-000000?style=for-the-badge&labelColor=1a1a1a" /><br/>
 <sub>Beautiful & Intuitive</sub>
 </td>
 </tr>
@@ -58,8 +58,8 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,react,dart,androidstudio,xcode&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" />
 
 <br/><br/>
 
@@ -86,10 +86,10 @@
 ## 🌟 Featured Work
 
 <a href="https://usmans.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-000000?style=for-the-badge&logoColor=white&labelColor=1a1a1a" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusmanahmedx&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadusmanahmedx&repo=My-Portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9" />
 
 ```javascript
 const portfolio = {
@@ -113,16 +113,16 @@ const portfolio = {
 ## 📫 Let's Connect & Collaborate
 
 <a href="https://www.linkedin.com/in/muhammad-usman-ahmed-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <a href="mailto:usmanahmed3377@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com/muhammadusmanahmedx">
-  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://usmans.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000" />
 </a>
 
 <br/><br/>
@@ -141,9 +141,9 @@ const portfolio = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:0d0d0d,30:1a1a1a,50:0d0d0d,70:1a1a1a,90:0d0d0d,100:000000&height=150&section=footer&animation=twinkling" />
 
-<img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=6366F1&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=muhammadusmanahmedx&color=000000&style=for-the-badge&label=Profile+Views&labelColor=1a1a1a" />
 
 **⭐ From [muhammadusmanahmedx](https://github.com/muhammadusmanahmedx) with 💜**
 
